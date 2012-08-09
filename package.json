@@ -1,5 +1,6 @@
 {
   "name":"feedlistener",
+  "url": "http://github.com/tdebarochez/feedlistener",
   "version":"0.1.0",
   "node":"0.8.x",
   "author":"tdebarochez",
